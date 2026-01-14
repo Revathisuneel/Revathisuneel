@@ -7,44 +7,44 @@ I’m an entry-level data professional with hands-on experience in SQL, Python, 
 
 🔍 What I’m Focused On
 
-Data analysis using SQL and Python
+-Data analysis using SQL and Python
 
-Building dashboards with Tableau
+-Building dashboards with Tableau
 
-Cleaning, modeling, and validating data
+-Cleaning, modeling, and validating data
 
-Applying analytics to solve business problems
+-Applying analytics to solve business problems
 
-Learning predictive analytics and data science techniques
+-Learning predictive analytics and data science techniques
 
 📁 Featured Project
-QuickBite Express — Crisis & Recovery Analytics
+-QuickBite Express — Crisis & Recovery Analytics Project Reference:(Code Basics)
 
-Analyzed 100K+ order, review, and outage records
+-Analyzed 100K+ order, review, and outage records
 
-Built before/after dashboards to track performance recovery
+-Built before/after dashboards to track performance recovery
 
-Identified customer win-back opportunities and operational insights
+-Identified customer win-back opportunities and operational insights
 
 🔗 Project details available in my repositories
 
 🛠 Skills & Tools
 
-Programming: Python, SQL
+-Programming: Python, SQL
 
-Analytics: Data Cleaning, Exploratory Analysis, Predictive Analytics
+-Analytics: Data Cleaning, Exploratory Analysis, Predictive Analytics
 
-Visualization: Tableau, Excel Dashboards
+-Visualization: Tableau, Excel Dashboards
 
-Data Platforms: BigQuery, AWS, Google Cloud Platform
+-Data Platforms: BigQuery, AWS, Google Cloud Platform
 
 🌱 Currently Learning
 
-Advanced analytics techniques
+-Advanced analytics techniques
 
-Machine learning fundamentals
+-Machine learning fundamentals
 
-Improving data storytelling and business communication
+-Improving data storytelling and business communication
 
 🌐 Connect With Me
 
